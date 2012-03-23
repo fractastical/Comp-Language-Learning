@@ -1,7 +1,7 @@
 My philosophy of computer languages is somewhat complex. This is the simple version. There are languages which are good for specific tasks, generally related to the degree to which they mirror the problem domain, both in the sense of language design and associated libraries. However, given that any language which is fixed on "problem solving" will invariably adapt itself to the problems itself, there is a need for languages which remain at a higher level of abstraction and allow us to contemplate things in their full abstraction (which frequently involves re-conceptualizing the apparent problem that we have). 
 
-*Power*
+This can be represented as a linear series:
 
-Power is both the ability to adapt and the ability to change something external to one's self. 
+Problem as articulated by the people who have it -> problem as represented by description of actors and objects -> problem represented as monads  
 
-Since lisps exist at a higher degree of abstraction. 
+This is, more or less, withdrawing from the immediacy of the problem into a state of repose. Because lisps exist at a higher degree of abstraction they are more able to describe the problem in an abstract way. However, this does not make them able necessarily to be able to fix the problem. Regardless, they allow one to understand the problem well and it is necessary to understand the problem well in order to apply a more lasting fix. 
