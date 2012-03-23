@@ -1,3 +1,7 @@
-My philosophy of computer languages is somewhat complex. This is the simple version. There are languages which are good for specific tasks, generally related to the degree to which they mirror the problem domain, both in the sense of language design and associated libraries.
+My philosophy of computer languages is somewhat complex. This is the simple version. There are languages which are good for specific tasks, generally related to the degree to which they mirror the problem domain, both in the sense of language design and associated libraries. However, given that any language which is fixed on "problem solving" will invariably adapt itself to the problems itself, there is a need for languages which remain at a higher level of abstraction and allow us to contemplate things in their full abstraction (which frequently involves re-conceptualizing the apparent problem that we have). 
 
-The domain 
+*Power*
+
+Power is both the ability to adapt and the ability to change something external to one's self. 
+
+Since lisps exist at a higher degree of abstraction. 

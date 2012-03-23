@@ -3,4 +3,3 @@ Basically a port of my "human language learning repo":https://github.com/fractas
 
 At the moment meat and potatoes is in the enterprise, while interests generally lie elsewhere. Attempting to weave together making money, doing things that I love, and doing things that are educational (e.g. outside my current strengths).
 
-This is also meant to be a base.
