@@ -1,0 +1,8 @@
+Built a few apps from 1.0 on. Revisit about once a year. Number of apps by version (approx.) :
+
+1.2: 3
+2.2: 2
+3.x: 4
+
+Nothing that extensive, but not necessarily trivial either. Experimented also with most CMS and blogging engines along the way. 
+ 

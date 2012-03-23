@@ -1,0 +1,3 @@
+Goal 1: Make some $$$ so that I'm not burning too much.
+Goal 2: Do some more functional programming
+Goal 3: Build beautiful things
