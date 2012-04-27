@@ -5,3 +5,4 @@ This can be represented as a linear series:
 Problem as articulated by the people who have it -> problem as represented by description of actors and objects -> problem represented as monads  
 
 This is, more or less, withdrawing from the immediacy of the problem into a state of repose. Because lisps exist at a higher degree of abstraction they are more able to describe the problem in an abstract way. However, this does not make them able necessarily to be able to fix the problem. Regardless, they allow one to understand the problem well and it is necessary to understand the problem well in order to apply a more lasting fix. 
+
