@@ -1,5 +1,0 @@
-
-Basically a port of my "human language learning repo":https://github.com/fractastical/Language-Learning to deal with the various computer languages which I know and am working on at any given time.
-
-At the moment meat and potatoes is in the enterprise, while interests generally lie elsewhere. Attempting to weave together making money, doing things that I love, and doing things that are educational (e.g. outside my current strengths).
-
